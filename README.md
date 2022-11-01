@@ -21,7 +21,7 @@ Projeto construído durante meus estudos no curso 'Desenvolvimento Web Completo 
 
 > Formularios
 
- 
+> Tabelas 
 
 
 [def]: ./.github/preview.png
