@@ -13,7 +13,7 @@ Projeto construído durante meus estudos no curso 'Desenvolvimento Web Completo 
 
 - HTML
 
-## Ferramentas utilizas do HTML
+## Ferramentas utilizadas do HTML
 
 > Tags html
 
